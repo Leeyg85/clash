@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,qichiyu.com
 # DOMAIN-SUFFIX,difyai.com
 DOMAIN-SUFFIX,hsy88.org
 DOMAIN-SUFFIX,xn--mes358acgm99l.com
+DOMAIN-SUFFIX,acme-v02.api.letsencrypt.org
 
 DOMAIN-SUFFIX,stotik.com
 DOMAIN-SUFFIX,streetfighter.com
